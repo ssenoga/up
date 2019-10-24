@@ -1,0 +1,5 @@
+API key:   7a6cf47ad34b542fda7d55ca901c3975
+API secret key: 21d43d6cddcb9503bee6702f66215151
+
+
+https://7a6cf47ad34b542fda7d55ca901c3975:21d43d6cddcb9503bee6702f66215151@eddieTech.myshopify.com/admin/api/2019-10/products.json

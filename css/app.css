@@ -1,0 +1,31 @@
+.login {
+	/*margin-top: 25vh;*/
+	border: 1px solid black;
+	border-radius: 10px;
+	padding: 10px;
+}
+
+ul {
+	list-style: none;
+	margin-left: 35%;
+	padding-top: 50px;
+}
+
+ul li {
+	display: inline;
+}
+
+ul li a {
+	padding: 10px;
+	font-size: 28px;
+	color: black;
+}
+ul li a:active {
+	color: blue;
+	text-decoration: underline;
+}
+.active {
+	color: darkblue;
+	text-decoration: underline;
+	border: 1px solid lightblue;
+}
